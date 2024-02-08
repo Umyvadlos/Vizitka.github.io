@@ -1,0 +1,42 @@
+
+body
+{
+    background-color:lightgray;
+
+}
+
+p
+{
+
+color:green;    
+}
+
+h1, h2
+{
+
+color: darkcyan;
+}
+
+ul
+{list-style-type: lower-greek;
+}
+
+article p
+{
+    color: blueviolet;
+}
+
+.class
+{
+color: brown;
+}
+
+#modra
+{
+    color: blue;
+}
+
+.class3
+{
+    color: purple;
+}
